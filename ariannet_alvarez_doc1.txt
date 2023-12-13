@@ -1,1 +1,2 @@
 Linea en fichero1
+Nuevo dato en fichero1
