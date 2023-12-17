@@ -2,5 +2,11 @@ Linea nueva en fichero_rama1
 Otra linea nueva en fichero_rama1
 Otra linea nueva en fichero_rama1
 Otra linea nueva en fichero_rama1
+<<<<<<< HEAD
 De nuevo otra linea nueva en fichero_rama1 desde Master
 De nuevo otra linea nueva en fichero_rama1 desde Master
+=======
+De nuevo otra linea nueva en fichero_rama1
+De nuevo otra linea nueva en fichero_rama1
+De nuevo otra linea nueva en fichero_rama1
+>>>>>>> ariannet_alvarez_rama
