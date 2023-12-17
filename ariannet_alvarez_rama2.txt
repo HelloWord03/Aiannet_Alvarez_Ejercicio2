@@ -1,0 +1,4 @@
+Linea nueva en fichero_rama2
+Otra linea nueva en fichero_rama2
+Otra linea nueva en fichero_rama2
+Otra linea nueva en fichero_rama2
